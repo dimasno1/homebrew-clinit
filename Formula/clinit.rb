@@ -1,8 +1,8 @@
 class Clinit < Formula
   desc "Claude Code project scaffolder"
   homepage "https://github.com/dimasno1/clinit"
-  url "https://github.com/dimasno1/clinit/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "ddbccb9374be9d6eee9c05c74ba967ce4776fb952c76ef2bc871ac6185ddb4d6"
+  url "https://github.com/dimasno1/clinit/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "93e84037b5b99af8ad244d8b15b3f68e797ccd30fe1ada5b6c65c869a641d493"
   license "MIT"
 
   depends_on "jq"
